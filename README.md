@@ -1,24 +1,14 @@
-# find_house_app
+# Find House App
 
-A new Flutter project.
+[Dart & Flutter Development Bootcamp: Find House App](https://buildwithangga.com/kelas/dart-flutter-development-bootcamp-find-house-app) by BuildWithAngga
 
-## Getting Started
+Additional Library:
+[Salomon Bottom Bar](https://pub.dev/packages/salomon_bottom_bar)
+[Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Find House App >> README.md
-git init
-git add .
-git commit -m first commit
-git branch -M main
-git remote add origin https://github.com/rtnoge/find_house_app.git
-git push -u origin main
-echo # Find House App
+Screenshot:
+<div>
+    <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/home_screen.png" height="400px"</img>
+  <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/detail_screen.png" height="400px"</img> 
+  <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/location_screen.png" height="400px"</img> 
+</div>
