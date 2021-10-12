@@ -5,7 +5,6 @@
 Additional Library:
 
 [Salomon Bottom Bar](https://pub.dev/packages/salomon_bottom_bar)
-
 [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
 
 Screenshot:
