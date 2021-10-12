@@ -1,14 +1,13 @@
 # Find House App
 
-[Dart & Flutter Development Bootcamp: Find House App](https://buildwithangga.com/kelas/dart-flutter-development-bootcamp-find-house-app) by BuildWithAngga
-
+[Dart & Flutter Development Bootcamp: Find House App](https://buildwithangga.com/kelas/dart-flutter-development-bootcamp-find-house-app) by BuildWithAngga\
 
 
 Additional Library:
 
 [Salomon Bottom Bar](https://pub.dev/packages/salomon_bottom_bar)
 
-[Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
+[Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)\
 
 
 
