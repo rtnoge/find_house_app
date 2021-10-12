@@ -7,8 +7,10 @@ Additional Library:
 [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
 
 Screenshot:
-    <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/home_screen.png" height="400px"</img>
+<div>
+  <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/home_screen.png" height="400px"</img>
   <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/detail_screen.png" height="400px"</img> 
   <img src="https://github.com/rtnoge/find_house_app/blob/main/screenshots/location_screen.png" height="400px"</img> 
-
+</div>
+    
 Matur Nuwun
